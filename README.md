@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @sumanisfr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+=> 👋 Hi, I’m @sumanisfr
+=> 👀 I’m interested in cybersecurity and web development
+=> 🌱 I’m currently learning web development, focusing on full-stack technologies
+=> 💞️ I’m looking to collaborate on open-source web projects and ethical hacking initiatives
+=> 📫 How to reach me: sumankumarghosh94@gmail.com or GitHub: github.com/sumanisfr
+=> 😄 Pronouns: He/Him
+=> ⚡ Fun fact: I am a ncc cadet and martial artist !
 
 
-sumanisfr/sumanisfr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 
