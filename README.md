@@ -1,11 +1,12 @@
 # 👋 Hey! I'm Suman Kumar Ghosh
 
 🎓 3rd-year B.Tech CSE Student |
-🏃‍♂️ Sprinter & College Champion 🏆  
 🥋 Martial Artist | 
 🛡️ Cybersecurity Enthusiast | 
 🧑‍💻 Web Developer | 
-🎯 Defense Aspirant
+🎯 Defense Aspirant |
+🏃‍♂️ Sprinter & College Champion 🏆  |
+
 
 ---
 
