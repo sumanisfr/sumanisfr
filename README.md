@@ -1,7 +1,11 @@
 # 👋 Hey! I'm Suman Kumar Ghosh
 
-🎓 3rd-year B.Tech CSE Student | 🏃‍♂️ Sprinter & College Champion 🏆  
-🥋 Martial Artist | 🛡️ Cybersecurity Enthusiast | 🧑‍💻 Web Developer | 🎯 Defense Aspirant
+🎓 3rd-year B.Tech CSE Student |
+🏃‍♂️ Sprinter & College Champion 🏆  
+🥋 Martial Artist | 
+🛡️ Cybersecurity Enthusiast | 
+🧑‍💻 Web Developer | 
+🎯 Defense Aspirant
 
 ---
 
@@ -67,6 +71,7 @@ Know more about me, my skills, and my work
 | 💻 GitHub | [github.com/Sumanisfr](https://github.com/Sumanisfr) |
 | 📷 Instagram | [@suman_kumar_ghosh_77](https://instagram.com/suman_kumar_ghosh_77) |
 | 🎥 YouTube | [@suman900](https://www.youtube.com/@suman900) |
+| 🧠 LeetCode | [leetcode.com/Sumankumarghosh](https://leetcode.com/Sumankumarghosh) |
 | 🧠 Blog | Coming Soon... 📝 |
 
 ---
