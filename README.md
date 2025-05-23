@@ -16,7 +16,7 @@
 - 💻 Currently learning Java, DSA, Web Dev & Python  
 - 🧠 GATE | CDS | SSB | Hackathons 💡  
 - ⚡ Passionate about AI, Startups & Self-Discipline  
-- 🏃‍♂️ Inter-department Champion Sprinter & Track Athlete  
+- 🏃‍♂️ Sprinter & Track Athlete  
 
 ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
