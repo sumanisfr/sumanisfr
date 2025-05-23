@@ -68,10 +68,10 @@ Know more about me, my skills, and my work
 
 | Platform | Link |
 |----------|------|
-| 💼 LinkedIn | [linkedin.com/in/sumankumarghosh](https://linkedin.com/in/sumankumarghosh) |
+| 💼 LinkedIn | [linkedin.com/in/sumankumarghosh](https://www.linkedin.com/in/suman-kumar-ghosh/) |
 | 💻 GitHub | [github.com/Sumanisfr](https://github.com/Sumanisfr) |
 | 📷 Instagram | [@suman_kumar_ghosh_77](https://instagram.com/suman_kumar_ghosh_77) |
-| 🎥 YouTube | [@suman900](https://www.youtube.com/@suman900) |
+| 🎥 YouTube | [@suman900](https://www.youtube.com/@suman900.) |
 | 🧠 LeetCode | [leetcode.com/Sumankumarghosh](https://leetcode.com/Sumankumarghosh) |
 | 🧠 Blog | Coming Soon... 📝 |
 
