@@ -1,6 +1,6 @@
 # 👋 Hey! I'm Suman Kumar Ghosh
 
-🎓 3rd-year B.Tech CSE Student |
+🎓 3rd-year B.Tech CSE Student | 
 🥋 Martial Artist | 
 🛡️ Cybersecurity Enthusiast |    
 🧑‍💻 Web Developer | 
