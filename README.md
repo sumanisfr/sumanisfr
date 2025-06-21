@@ -33,6 +33,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-ffD706?style=for-the-badge&logo=React.js&logoColor=Green)
 ![Node.js](https://img.shields.io/badge/Node.js-4ef506?style=for-the-badge&logo=Node.js&logoColor=indigo)
+![Express.js](https://img.shields.io/badge/Express.js-ff0023?style=for-the-badge&logo=Express.js&logoColor=grey)
 
 
 
