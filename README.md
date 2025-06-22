@@ -50,7 +50,7 @@
 
 ## 🔥 Contribution Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sumanisfr&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sumanisfr&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
