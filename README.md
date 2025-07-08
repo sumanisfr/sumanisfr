@@ -97,4 +97,10 @@ Know more about me, my skills, and my work
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Welcome+to+My+Tech+Hub!&animation=wave&color=gradient" />
 </p>
+---
 
+<div align="center">
+  <img src="https://tenor.com/view/robot-hi-robot-technology-gif-25342200.gif" alt="👋 Hello from a friendly robot!" />
+</div>
+
+---
