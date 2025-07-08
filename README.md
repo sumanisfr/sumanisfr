@@ -93,3 +93,12 @@ Know more about me, my skills, and my work
 ![Bear Hello](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
 ---
+
+![Bear Saying Hello](https://i.imgur.com/VqJr2lg.gif)
+
+---
+![Tiger Saying Bye](https://i.imgur.com/VqJr2lg.gif)
+
+
+
+
