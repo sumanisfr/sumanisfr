@@ -89,3 +89,7 @@ Know more about me, my skills, and my work
 > *"Code hard, sprint harder, dream bigger."*
 
 ---
+
+![Bear Hello](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+
+---
