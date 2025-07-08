@@ -94,4 +94,8 @@ _Thanks for visiting! Drop a ⭐ if you enjoy my work!_
 
 ![Thanks GIF](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
 
+---
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=IamPritamAcharya&show_icons=true&theme=radical)](https://github.com/IamPritamAcharya)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamPritamAcharya&layout=compact)](https://github.com/IamPritamAcharya)
 
