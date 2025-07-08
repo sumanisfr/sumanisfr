@@ -94,11 +94,7 @@ Know more about me, my skills, and my work
 
 ---
 
-![Bear Saying Hello](https://i.imgur.com/VqJr2lg.gif)
-
----
-![Tiger Saying Bye](https://i.imgur.com/VqJr2lg.gif)
-
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Welcome+to+My+Tech+Hub!&animation=wave&color=gradient" />
+</p>
 
