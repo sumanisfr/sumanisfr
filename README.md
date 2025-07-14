@@ -95,3 +95,7 @@ _Thanks for visiting! Drop a ⭐ if you enjoy my work!_
 ![Thanks GIF](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
 
 ---
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sumanisfr&title=Profile%20Views&edge_flat=true)
+
+---
