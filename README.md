@@ -96,6 +96,6 @@ _Thanks for visiting! Drop a ⭐ if you enjoy my work!_
 
 ---
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sumanisfr&title=Profile%20Views&edge_flat=true)
+![Profile views](https://komarev.com/ghpvc/?username=sumanisfr&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
