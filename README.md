@@ -42,7 +42,7 @@
 ## 📊 GitHub Stats Dashboard
 
 | 📈 Stats | 🏆 Trophies |
-|---------|-------------|
+|----------|-------------|
 | ![Suman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumanisfr&show_icons=true&theme=radical) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sumanisfr&theme=radical) |
 
 ---
