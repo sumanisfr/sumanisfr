@@ -13,7 +13,7 @@
 ## 🧭 About Me
 
 - 🔐 Future Cybersecurity Specialist  
-- 💻 Currently learning Java, DSA, Web Dev & Python  
+- 💻 Currently learning Aiml, Web Dev & Python  
 - 🧠 GATE | CDS | SSB | Hackathons 💡  
 - ⚡ Passionate about AI, Startups & Self-Discipline  
 - 🏃‍♂️ Sprinter & Track Athlete  
