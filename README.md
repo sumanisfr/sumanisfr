@@ -3,7 +3,7 @@
 🎓 3rd-year B.Tech CSE Student | 
 🥋 Martial Artist | 
 🛡️ Cybersecurity Enthusiast |    
-🧑‍💻 Web Developer | 
+🧑‍💻 Web Developer |  
 🎯 Defense Aspirant |
 🏃‍♂️ Sprinter & College Champion 🏆  |
 
