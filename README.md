@@ -8,7 +8,7 @@
 🏃‍♂️ Sprinter & College Champion 🏆  |
 
 
----
+--- 
 
 ## 🧭 About Me
 
