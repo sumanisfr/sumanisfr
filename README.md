@@ -10,7 +10,7 @@
 
 --- 
 
-## 🧭 About Me
+## 🧭 About Me 
 
 - 🔐 Future Cybersecurity Specialist  
 - 💻 Currently learning Aiml, Web Dev & Python  
