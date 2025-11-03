@@ -4,7 +4,7 @@
 🥋 Martial Artist | 
 🛡️ Cybersecurity Enthusiast |    
 🧑‍💻 Web Developer |  
-🎯 Defense Aspirant |
+🎯 Defense Aspirant |  
 🏃‍♂️ Sprinter & College Champion 🏆  |
 
 
